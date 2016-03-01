@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevBrito.TesteSimpleInjector", "DevBrito.TesteSimpleInjector\DevBrito.TesteSimpleInjector.csproj", "{E769902F-5262-4F3D-88F4-A6FB1BDA12C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{45418D41-4D84-40B4-8813-D58185A09FA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{F495609F-4DF0-4C10-9252-96A99A7A5252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{EC42E123-6290-4DB7-A366-B61960FFA4F7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://devrodrigobrito.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Business\\Business.csproj
+		SccProjectName1 = Business
+		SccLocalPath1 = Business
+		SccProjectUniqueName2 = Data\\Data.csproj
+		SccProjectName2 = Data
+		SccLocalPath2 = Data
+		SccProjectUniqueName3 = DevBrito.TesteSimpleInjector\\DevBrito.TesteSimpleInjector.csproj
+		SccProjectName3 = DevBrito.TesteSimpleInjector
+		SccLocalPath3 = DevBrito.TesteSimpleInjector
+		SccProjectUniqueName4 = Domain\\Domain.csproj
+		SccProjectName4 = Domain
+		SccLocalPath4 = Domain
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E769902F-5262-4F3D-88F4-A6FB1BDA12C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E769902F-5262-4F3D-88F4-A6FB1BDA12C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E769902F-5262-4F3D-88F4-A6FB1BDA12C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E769902F-5262-4F3D-88F4-A6FB1BDA12C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45418D41-4D84-40B4-8813-D58185A09FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45418D41-4D84-40B4-8813-D58185A09FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45418D41-4D84-40B4-8813-D58185A09FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45418D41-4D84-40B4-8813-D58185A09FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F495609F-4DF0-4C10-9252-96A99A7A5252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F495609F-4DF0-4C10-9252-96A99A7A5252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F495609F-4DF0-4C10-9252-96A99A7A5252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F495609F-4DF0-4C10-9252-96A99A7A5252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC42E123-6290-4DB7-A366-B61960FFA4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC42E123-6290-4DB7-A366-B61960FFA4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC42E123-6290-4DB7-A366-B61960FFA4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC42E123-6290-4DB7-A366-B61960FFA4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
